@@ -70,7 +70,7 @@ jobs:
             return labelNames;
 
       - name: 'Run Gemini Issue Analysis'
-        uses: './'
+        uses: 'google-github-actions/run-gemini-cli@v0'
         id: 'gemini_issue_analysis'
         env:
           GITHUB_TOKEN: '' # Do not pass any auth token here since this runs on untrusted inputs
@@ -96,7 +96,7 @@ jobs:
                 "run_shell_command(echo)"
               ],
               "telemetry": {
-                "enabled": true,
+                "enabled": false,
                 "target": "gcp"
               }
             }
