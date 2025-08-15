@@ -1,0 +1,13 @@
+
+08/08/2024 08:44:48 AM: customlog_start.py main 18: This is an info-level log message
+08/08/2024 08:44:48 AM: customlog_start.py main 19: This is a warning-level message
+08/08/2024 08:46:56 AM: customlog_start.py main 20: This is an info-level log message
+08/08/2024 08:46:56 AM: customlog_start.py main 21: This is a warning-level message
+08/08/2024 08:49:37 AM: customlog_start.py main 23: This is an info-level log message
+08/08/2024 08:49:37 AM: customlog_start.py main 24: This is a warning-level message
+08/08/2024 08:49:37 AM: customlog_start.py newFunc 10: This is debug-level log
+08/08/2024 08:51:00 AM: User: nsen@gmail.com customlog_start.py main 23: This is an info-level log message
+08/08/2024 08:51:00 AM: User: nsen@gmail.com customlog_start.py main 24: This is a warning-level message
+08/08/2024 08:51:00 AM: User: nsen@gmail.com customlog_start.py newFunc 10: This is debug-level log
+08/08/2024 08:52:02 AM: User: nsen@gmail.com customlog_start.py main 23: This is an info-level log message
+08/08/2024 08:52:02 AM: User: nsen@gmail.com customlog_start.py main 24: This is a warning-level message
