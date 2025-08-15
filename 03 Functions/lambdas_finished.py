@@ -10,8 +10,8 @@ def FahrenheitToCelsisus(temp):
 
 
 def main():
-    ctemps = [0, 12, 34, 100]
-    ftemps = [32, 65, 100, 212]
+    c_temps = [0, 12, 34, 100]
+    f_temps = [32, 65, 100, 212]
 
     # Use regular functions to convert temps
     print(list(map(FahrenheitToCelsisus, ftemps)))
